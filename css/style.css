@@ -3,7 +3,7 @@ body {
     background-color: White;
     color: Black;
     font-family: "Arial", serif;
-    font-size: 16px;
+    font-size: 8px;
 }
 
 header {
@@ -16,5 +16,7 @@ header {
     display: flex;
 
     flex-direction: row;
+
+    justify-content: center;
 
 }
