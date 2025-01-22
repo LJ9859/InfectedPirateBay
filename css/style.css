@@ -12,13 +12,7 @@ header {
 }
 
 .checkbox-container {
-    display: flex; /* Use flexbox for horizontal alignment */
-    justify-content: center; /* Center the items horizontally */
-    align-items: center; /* Center the items vertically */
-    height: 100vh; /* Ensure full viewport height */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
-
-.checkbox-container label {
-    margin: 0 10px; /* Add horizontal margin for spacing */
-}
-
