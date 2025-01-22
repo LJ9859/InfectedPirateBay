@@ -4,15 +4,19 @@ body {
     color: Black;
     font-family: "Arial", serif;
     font-size: 12px;
+    margin: 0;
+    padding: 0;
 }
 
 header {
-    margin: auto;
-    padding: auto;
+    margin: 0;
+    padding: 0;
 }
 
 .checkbox-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin: 0;
+    padding: 0;
 }
