@@ -9,3 +9,11 @@ header {
     margin: auto;
     padding: auto;
 }
+
+.checkbox-container {
+
+    display: flex;
+
+    flex-direction: row;
+
+}
